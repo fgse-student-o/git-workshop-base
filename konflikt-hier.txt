@@ -1,3 +1,3 @@
 ﻿Git kann tolle Sachen.
-sehr unterschiedlich
+Ich löse einen Klonflikt!
 Aber man muss es üben.
